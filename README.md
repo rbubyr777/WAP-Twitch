@@ -2,7 +2,7 @@
 
 This is a small test framework using **pytest** and **Selenium** to automate searching for a streamer on the Twitch mobile site, taking a screenshot after navigating to a specific streamer’s page. The test performs the following steps:
 
-![Test Running Screenshot](last_step.png)
+![Test Running Screenshot](tests/last_step.png)
 
 1. Opens the Twitch mobile site.
 2. Clicks the search icon and searches for "StarCraft II".
